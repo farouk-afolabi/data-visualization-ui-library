@@ -30,11 +30,11 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/project-1-pattern-library.git
+    git clone https://github.com/farouk-afolabi/data-visualization-ui-library.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd project-1-pattern-library
+    cd data-visualization-ui-library
     ```
 3. Open `index.html` in your browser to view the project.
 
