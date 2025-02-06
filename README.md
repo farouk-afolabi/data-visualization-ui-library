@@ -1,4 +1,4 @@
-# Group 11 Project 1: Pattern Library
+# User Interface Pattern Library
 
 ## Overview
 
