@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a pattern library created by Group 11 for showcasing foundational design elements and patterns. It includes essential elements such as color schemes, typography, and other UI components, designed using **Bootstrap** and **D3.js**.
+This project is a pattern library for showcasing foundational design elements and patterns. It includes essential elements such as color schemes, typography, and other UI components, designed using **Bootstrap** and **D3.js**.
 
 ## Technologies Used
 
